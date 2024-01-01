@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "In this game, you are given some figures of some super cars and the picture is cut in many small parts. You are also given a layout of the cut parts. You just need to put the right piece in the right place so it could be a complete image in the same manner",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Supercars Puzzle",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Supercars Puzzle",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Supercars Puzzle",
       "url": "",
-      "description": ""
+      "description": "In this game, you are given some figures of some super cars and the picture is cut in many small parts. You are also given a layout of the cut parts. You just need to put the right piece in the right place so it could be a complete image in the same manner"
     }
   ]
 }
